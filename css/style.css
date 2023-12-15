@@ -26,7 +26,6 @@ body {
   position: fixed;
   top: 30px; left: 60px;
   width: 90px; height: 80px;
-  outline: 1px solid red;
   background: url(../img/logo_b.png)no-repeat;
   background-size: contain;
 }
@@ -56,7 +55,7 @@ article {
   position: absolute;
   top: 350px; left: 150px;
   width: 450px;
-  outline: 1px solid red;}
+}
 article p { font-size: 50px; color: #666;}
 article p strong { color: #111;}
 article em { 
@@ -111,7 +110,6 @@ nav ul li.on a {
 #wrap img:nth-of-type(2) { 
   position: absolute;
   top: 20px; left: 0;
-  outline: 1px solid red;
   animation: ani2 100s linear infinite;}
 
 /* 모바일 구름 */
@@ -125,7 +123,6 @@ figure p img.cl2 {
   position: absolute;
   top: 20px; left: 0; 
   width: 700px; height: auto;
-  outline: 1px solid red;
   animation: ani4 100s linear infinite;}
 
 /* 구름 모션 */
